@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/vertex">
+        <file>basic.vsh</file>
+        <file>basic.fsh</file>
+        <file>depth.fsh</file>
+        <file>depth.vsh</file>
+    </qresource>
+</RCC>

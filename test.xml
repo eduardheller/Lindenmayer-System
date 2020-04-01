@@ -1,0 +1,23 @@
+<lsystem>
+    <productions iterations="1">
+        <production rule="F" chance="1">FF+F</production>
+    </productions>
+    <axiom>F</axiom>
+    <angle>30</angle>
+    <branch image="D:/Studium/Bachelor Arbeit/Arbeit/lsystems/plantbranch2.jpg">
+        <length>0.69999999</length>
+        <thickness>0.1</thickness>
+        <approximation>8</approximation>
+        <hermitesteps>1</hermitesteps>
+        <hermitetangent>1</hermitetangent>
+        <hermitetangent2>1</hermitetangent2>
+        <tangentmindist>0.01</tangentmindist>
+        <decreasefactor>0.5</decreasefactor>
+    </branch>
+    <leaf image="No Texture">
+        <scalex>1</scalex>
+        <scaley>1</scaley>
+        <bending>0.050000001</bending>
+        <decreasefactor>0.5</decreasefactor>
+    </leaf>
+</lsystem>
